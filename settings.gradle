@@ -1,0 +1,2 @@
+rootProject.name='FavRev'
+include ':app'
