@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">FavRev</string>
+    <string name="app_name_text_view">친구네 맛집</string>
+    <string name="email_address_text_view">EMAIL ADDRESS</string>
+    <string name="password_text_view">PASSWORD</string>
+    <string name="forgot_password_text_view">Forgot password?</string>
+    <string name="do_not_have_an_account_text_view">Don\'t have an account?</string>
+    <string name="sign_up_text_view">Sign in</string>
+    <string name="sign_in_text_view">Sign In</string>
 </resources>
